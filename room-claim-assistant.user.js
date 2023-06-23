@@ -8,8 +8,8 @@
 // @include      https://screeps.com/a/
 // @run-at       document-ready
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
-// @require      https://github.com/Esryok/screeps-browser-ext/raw/master/screeps-browser-core.js
-// @downloadUrl  https://github.com/Esryok/screeps-browser-ext/raw/master/room-claim-assistant.user.js
+// @require      https://github.com/NekoKetsu/screeps-browser-ext/raw/master/screeps-browser-core.js
+// @downloadUrl  https://github.com/NekoKetsu/screeps-browser-ext/raw/master/room-claim-assistant.user.js
 // ==/UserScript==
 
 let roomObjectCounts = {};
