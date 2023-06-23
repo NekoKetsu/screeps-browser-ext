@@ -6,7 +6,7 @@
 // @version      0.1.6
 // @author       James Cook
 // @include      https://screeps.com/a/
-// @run-at       document-ready
+// @run-at       document-idle
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
 // @require      https://github.com/NekoKetsu/screeps-browser-ext/raw/master/screeps-browser-core.js
 // @downloadUrl  https://github.com/NekoKetsu/screeps-browser-ext/raw/master/room-claim-assistant.user.js
