@@ -32,7 +32,7 @@ window.ScreepsAdapter = window.ScreepsAdapter || {};
             tutorial._trigger = tutorial.trigger;
             tutorial.trigger = function(triggerName, unknownB) {
                 for (let i in rootScope.viewChangeCallbacks) {
-                    rootScope.viewChangeCallbacks[i](triggerName);
+                    rootScope.viewChangeCallbacks[i](triggerName, unknownB);
                 }
                 tutorial._trigger(triggerName, unknownB);
             };
